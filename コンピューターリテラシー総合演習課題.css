@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <title>
+            コンピューターリテラシー
+        </title>
+        <link rel="stylesheet" type="text/css" href="rensyu.css">
+        <script type="text/javascript"src="コンピュータリテラシーグループ課題"></script>
+    </head>
+    <body>
+        <header>
+          <div class="qa">
+            <ul class="qa__block">
+              <li class="qa__item">
+                <button class="qa__head js-ac">テキストテキストテキストテキスト</button>
+                <div class="qa__body">
+                  <p>
+                    テキストテキストテキストテキスト
+                  </p>
+                </div>
+              </li>
+              <li class="qa__item">
+                <button class="qa__head js-ac">テキストテキストテキストテキスト</button>
+                <div class="qa__body">
+                  <p>
+                    テキストテキストテキストテキスト
+                  </p>
+                </div>
+              </li>
+              <li class="qa__item">
+                <button class="qa__head js-ac">テキストテキストテキストテキスト</button>
+                <div class="qa__body">
+                  <p>
+                    テキストテキストテキストテキスト
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </header>
+    </body>
+</html>
